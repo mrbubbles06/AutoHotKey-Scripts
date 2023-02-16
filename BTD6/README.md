@@ -1,4 +1,4 @@
-> ** Note **
+> **Note**
 > due to the latest updated, many of the scripts dont work properly, i will fix this asap
 
 
