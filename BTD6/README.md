@@ -1,3 +1,7 @@
+> **Issue**
+> due to the latest updated, many of the scripts dont work properly, i will fix this asap
+
+
 # BTD6 Macros
 I made these all from scratch in order to get xp for my monkeys, in order to get the paragons for them. The "xpfarmbtd6.ahk" one is just for grinding xp.
 
